@@ -1,7 +1,7 @@
 {
 
   "engines":{
-    "node":"24.11.1"
+    "node":"22.x"
   },
   "name": "project---phase-1-(part-a)",
   "version": "1.0.0",
