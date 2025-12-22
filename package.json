@@ -1,9 +1,9 @@
 {
 
   "engines":{
-    "node":"22.x"
+    "node":"24.11.1"
   },
-  "name": "project---phase-1-(part-a)",
+  "name": "project - phase 1(part-a)",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
