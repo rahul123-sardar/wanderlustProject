@@ -13,6 +13,11 @@
                         <div class="valid-feedback">Title looks good</div>
                     </div>
                     <div class="mb-3">
+                        <label for="title" class="form-label">Description</label>
+                        <input name="listing[description]" value="<%=listing.description%>" type="text" class="form-control" required/>
+                        <div class="valid-feedback">Description looks good</div>
+                    </div>
+                    <div class="mb-3">
                         Original Listing Image <br>
                         <img src="<%=originalImageUrl%>" />
                     </div>
